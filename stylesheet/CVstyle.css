@@ -1,0 +1,14 @@
+body { background-color: lightblue;
+}
+img { height: 270px;
+      width: 250px;
+      border-radius: 50%;}
+
+hr { width: 2%;
+     border-style: none;
+     border-top-style:dotted;
+     border-width: 2px;
+     border-color: blue;}
+
+     table,td { color: darkblue; border: 5px; 
+     }
